@@ -1,0 +1,63 @@
+# =========================
+# UNITY
+# =========================
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Addressables
+[Aa]ssets/[Aa]ddressableAssetsData/*/*.bin*
+
+# =========================
+# VISUAL STUDIO / VS CODE
+# =========================
+.vs/
+.vscode/
+*.csproj
+*.sln
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# =========================
+# UNITY CACHE
+# =========================
+sysinfo.txt
+
+# =========================
+# OS FILES
+# =========================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# =========================
+# BUILD OUTPUT
+# =========================
+*.apk
+*.aab
+*.unitypackage
+*.exe
+*.app
+*.x86
+*.x86_64
+
+# =========================
+# CRASH REPORTS
+# =========================
+crashlytics-build.properties
+
+# =========================
+# EXCEÇÃO - EXECUTÁVEL DO JOGO
+# =========================
+!Start 2D.exe
